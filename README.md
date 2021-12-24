@@ -6,7 +6,7 @@
 *** to allow for easy automation of the README generation process.
 *** Check it out: https://github.com/othneildrew/Best-README-Template/
 *** NOTE: This template assumes there is a short project demo named "demo.gif" and a "logo.png"
-*** saved in the ./assets/images/ folder within your repositiory. Adjust these as needed.
+*** saved in the ./assets/images/ folder within your repository. Adjust these as needed.
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -26,20 +26,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/atmention/auto-readme">
+  <a href="https://github.com/atmention/readme_generator">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">auto-readme</h3>
+<h3 align="center">readme_generator</h3>
 
   <p align="center">
     A cool little app to save time when creating Project README's!
     <br />
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/atmention/auto-readme/issues">Report Bug</a>
+    <a href="https://github.com/atmention/readme_generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/atmention/auto-readme/issues">Request Feature</a>
+    <a href="https://github.com/atmention/readme_generator/issues">Request Feature</a>
   </p>
 </div>
 
@@ -148,16 +148,16 @@ Simple testing instructions:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/atmention/auto-readme.svg?style=for-the-badge
-[contributors-url]: https://github.com/atmention/auto-readme/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/atmention/auto-readme.svg?style=for-the-badge
-[forks-url]: https://github.com/atmention/auto-readme/network/members
-[stars-shield]: https://img.shields.io/github/stars/atmention/auto-readme.svg?style=for-the-badge
-[stars-url]: https://github.com/atmention/auto-readme/stargazers
-[issues-shield]: https://img.shields.io/github/issues/atmention/auto-readme.svg?style=for-the-badge
-[issues-url]: https://github.com/atmention/auto-readme/issues
-[license-shield]: https://img.shields.io/github/license/atmention/auto-readme.svg?style=for-the-badge&cacheSeconds=3600
-[license-url]: https://github.com/atmention/auto-readme/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/atmention/readme_generator.svg?style=for-the-badge
+[contributors-url]: https://github.com/atmention/readme_generator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/atmention/readme_generator.svg?style=for-the-badge
+[forks-url]: https://github.com/atmention/readme_generator/network/members
+[stars-shield]: https://img.shields.io/github/stars/atmention/readme_generator.svg?style=for-the-badge
+[stars-url]: https://github.com/atmention/readme_generator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/atmention/readme_generator.svg?style=for-the-badge
+[issues-url]: https://github.com/atmention/readme_generator/issues
+[license-shield]: https://img.shields.io/github/license/atmention/readme_generator.svg?style=for-the-badge&cacheSeconds=3600
+[license-url]: https://github.com/atmention/readme_generator/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
